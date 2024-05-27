@@ -5,7 +5,7 @@ This is a compiler done for the Cool (Classroom Object Oriented Language) during
 This compiler will convert Cool to MIPS Assembly.
 
 Done in few stages:
-  - Write a cool progran
+  - Write cool programs and understanding of language syntax
   - Lexical analysis
   - Parsing
   - Semantic Analysis
